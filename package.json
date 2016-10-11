@@ -1,0 +1,19 @@
+{
+  "name": "ln-news-feed-directory",
+  "version": "1.0.0",
+  "description": "The list that powers the LevelNews.org news feed directory.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LevelNewsOrg/news-feed-directory.git"
+  },
+  "author": "Lauren Garcia (https://github.com/laurengarcia)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LevelNewsOrg/news-feed-directory/issues"
+  },
+  "homepage": "https://github.com/LevelNewsOrg/news-feed-directory#readme"
+}
