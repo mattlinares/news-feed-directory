@@ -98,6 +98,10 @@ module.exports = {
     displayName: 'BoilingFrogsPost.com'
   },
 
+  'youtube.com/user/boilingfrogspost': {
+    displayName: 'BoilingFrogsPost@YouTube'
+  },
+
   'boingboing.net': {
     displayName: 'BoingBoing.net',
     feedUrl: 'http://boingboing.net/feed'
