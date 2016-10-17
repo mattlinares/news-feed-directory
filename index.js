@@ -1,5 +1,9 @@
 module.exports = {
 
+  'youtube.com/user/21stCenturyWireTV': {
+    displayName: '21stCenturyWireTV@YouTube'
+  },
+
   '350.org': {
     displayName: '350.org'
   },
