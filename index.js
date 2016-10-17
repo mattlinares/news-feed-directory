@@ -1,5 +1,10 @@
 module.exports = {
 
+  '21stcenturywire.com': {
+    displayName: '21stCenturyWire.com',
+    feedUrl: 'http://21stcenturywire.com/feed/'
+  },
+
   'youtube.com/user/21stCenturyWireTV': {
     displayName: '21stCenturyWireTV@YouTube'
   },
