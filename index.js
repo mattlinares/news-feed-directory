@@ -567,6 +567,11 @@ module.exports = {
     feedUrl: 'http://www.occupy.com/rss'
   },
 
+  'off-guardian.org': {
+    displayName: 'Off-Guardian.org',
+    feedUrl: 'https://off-guardian.org/feed/'
+  },
+
   'okayafrica.com': {
     displayName: 'OkayAfrica.com',
     feedUrl: 'http://www.okayafrica.com/feed/'
