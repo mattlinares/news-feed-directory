@@ -226,10 +226,11 @@ module.exports = {
     feedUrl: 'https://www.districtsentinel.com/feed/'
   },
 
-  'earthfirstjournal.org': {
-    displayName: 'EarthFirstJournal.org',
-    feedUrl: 'http://earthfirstjournal.org/feed/'
-  },
+  // does not get updated:
+  // 'earthfirstjournal.org': {
+  //   displayName: 'EarthFirstJournal.org',
+  //   feedUrl: 'http://earthfirstjournal.org/feed/'
+  // },
 
   'earthisland.org/journal': {
     displayName: 'EarthIsland.org',
