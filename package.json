@@ -1,6 +1,6 @@
 {
   "name": "ln-news-feed-directory",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The list that powers the LevelNews.org news feed directory.",
   "main": "index.js",
   "scripts": {
