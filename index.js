@@ -10,13 +10,15 @@ module.exports = {
   },
 
   '350.org': {
-    displayName: '350.org'
+    displayName: '350.org',
+    twitter: '350'
   },
 
   '48hills.org': {
     displayName: '48Hills.org',
     channels: ['#Local:SanFrancisco'],
-    feedUrl: 'http://www.48hills.org/feed/'
+    feedUrl: 'http://www.48hills.org/feed/',
+    twitter: '48hills'
   },
 
   'a-revolt.org': {
@@ -31,10 +33,11 @@ module.exports = {
 
   'aclu.org': {
     displayName: 'ACLU.org',
-    feedUrl: 'https://www.aclu.org/taxonomy/channel-term/1/feed'
+    feedUrl: 'https://www.aclu.org/taxonomy/channel-term/1/feed',
+    twitter: 'aclu'
   },
 
-  'actvism.org' : {
+  'actvism.org': {
     displayName: 'Activism.org',
     feedUrl: 'http://www.actvism.org/en/feed/'
   },
@@ -46,17 +49,20 @@ module.exports = {
 
   'alexanderhiggins.com': {
     displayName: 'AlexanderHiggins.com',
-    feedUrl: 'http://alexanderhiggins.com/feed/'
+    feedUrl: 'http://alexanderhiggins.com/feed/',
+    twitter: 'kr3at'
   },
 
   'alternet.org': {
     displayName: 'Alternet.org',
-    feedUrl: 'http://feeds.feedblitz.com/alternet'
+    feedUrl: 'http://feeds.feedblitz.com/alternet',
+    twitter: 'alternet'
   },
 
   'amandla.org.za': {
     displayName: 'Amandla.org.za',
-    feedUrl: 'http://amandla.org.za/feed/'
+    feedUrl: 'http://amandla.org.za/feed/',
+    twitter: 'AmandlaMedia'
   },
 
   'americanintelligencereport.com': {
@@ -85,7 +91,8 @@ module.exports = {
 
   'antiwar.com': {
     displayName: 'AntiWar.com',
-    feedUrl: 'http://feeds.feedburner.com/antiwarcom-original'
+    feedUrl: 'http://feeds.feedburner.com/antiwarcom-original',
+    twitter: 'antiwarcom'
   },
 
   'theawl.com': {
@@ -101,6 +108,7 @@ module.exports = {
   'blacklistednews.com': {
     displayName: 'BlackListedNews.com',
     feedUrl: 'http://feeds.feedburner.com/blacklistednews/hKxa',
+    twitter: 'blacklistednews'
   },
 
   'boilingfrogspost.com': {
@@ -163,7 +171,8 @@ module.exports = {
 
   'commondreams.org': {
     displayName: 'CommonDreams.org',
-    feedUrl: 'http://www.commondreams.org/rss.xml'
+    feedUrl: 'http://www.commondreams.org/rss.xml',
+    twitter: 'commondreams'
   },
 
   'consortiumnews.com': {
@@ -173,18 +182,19 @@ module.exports = {
 
   'copblock.org': {
     displayName: 'CopBlock.org',
-    feedUrl: 'http://www.copblock.org/feed/'
+    feedUrl: 'http://www.copblock.org/feed/',
+    twitter: 'copblock'
   },
 
   'youtube.com/user/corbettreport/videos': {
-    displayName: 'CorbettReport@YouTube',
+    displayName: 'CorbettReport@YouTube'
   },
 
-  'countercurrentnews.com' : {
+  'countercurrentnews.com': {
     displayName: 'CounterCurrentNews.com'
   },
 
-  'counterpunch.org' : {
+  'counterpunch.org': {
     displayName: 'CounterPunch.org'
   },
 
@@ -199,12 +209,12 @@ module.exports = {
     feedUrl: 'http://feeds.feedburner.com/crosscurrentskalw'
   },
 
-  'current.org' : {
+  'current.org': {
     displayName: 'Current.org',
     feedUrl: 'http://current.org/feed'
   },
 
-  'dailydot.com' : {
+  'dailydot.com': {
     displayName: 'DailyDot.com',
     feedUrl: 'http://www.dailydot.com/feed/summary/latest/'
   },
@@ -221,7 +231,8 @@ module.exports = {
 
   'democracynow.org': {
     displayName: 'DemocracyNow.org',
-    feedUrl: 'http://www.democracynow.org/democracynow.rss'
+    feedUrl: 'http://www.democracynow.org/democracynow.rss',
+    twitter: 'democracynow'
   },
 
   'democracynow.org/video': {
@@ -236,10 +247,11 @@ module.exports = {
 
   'districtsentinel.com': {
     displayName: 'DistrictSentinel.com',
-    feedUrl: 'https://www.districtsentinel.com/feed/'
+    feedUrl: 'https://www.districtsentinel.com/feed/',
+    twitter: 'DCSentinel'
   },
 
-  // does not get updated:
+  // stale feed:
   // 'earthfirstjournal.org': {
   //   displayName: 'EarthFirstJournal.org',
   //   feedUrl: 'http://earthfirstjournal.org/feed/'
@@ -273,7 +285,8 @@ module.exports = {
 
   'ecowatch.com': {
     displayName: 'EcoWatch.com',
-    feedUrl: 'http://ecowatch.com/feed/'
+    feedUrl: 'http://ecowatch.com/feed/',
+    twitter: 'ecowatch'
   },
 
   'eff.org/deeplinks': {
@@ -288,7 +301,7 @@ module.exports = {
 
   'emptywheel.net': {
     displayName: 'EmptyWheel.net',
-    feedUrl: 'http://feeds.feedburner.com/emptywheel/cAUy',
+    feedUrl: 'http://feeds.feedburner.com/emptywheel/cAUy'
   },
 
   'environews.tv': {
@@ -333,12 +346,13 @@ module.exports = {
   },
 
   'youtube.com/user/FACTmagazine/videos': {
-    displayName: 'FactMag@YouTube',
+    displayName: 'FactMag@YouTube'
   },
 
   'fair.org': {
     displayName: 'Fair.org',
-    feedUrl: 'http://fair.org/feed/'
+    feedUrl: 'http://fair.org/feed/',
+    twitter: 'FairMediaWatch'
   },
 
   'foreignpolicyjournal.com': {
@@ -367,7 +381,8 @@ module.exports = {
   },
 
   'grist.org': {
-    displayName: 'Grist.org'
+    displayName: 'Grist.org',
+    twitter: 'grist'
   },
 
   'theguardian.com/uk': {
@@ -376,16 +391,17 @@ module.exports = {
   },
 
   'youtube.com/user/TheGuardian': {
-    displayName: 'TheGuardian@YouTube',
+    displayName: 'TheGuardian@YouTube'
   },
 
-  'gunsandbutter.org' : {
+  'gunsandbutter.org': {
     displayName: 'GunsAndButter.org',
     feedUrl: 'http://www.gunsandbutter.org/blog/rss'
   },
 
   'hackread.com': {
-    displayName: 'HackRead.com'
+    displayName: 'HackRead.com',
+    twitter: 'hackread'
   },
 
   'hifructose.com': {
@@ -484,7 +500,8 @@ module.exports = {
 
   'laprogressive.com': {
     displayName: 'LAProgressive.com',
-    channels: ['#Local:LosAngeles']
+    channels: ['#Local:LosAngeles'],
+    twitter: 'LAProgressive'
   },
 
   // FIXME: RSS feed Error: CERT_UNTRUSTED
@@ -524,7 +541,7 @@ module.exports = {
   },
 
   'youtube.com/user/MintPressNews/videos': {
-    displayName: 'MintPressNews@YouTube',
+    displayName: 'MintPressNews@YouTube'
   },
 
   'missionlocal.org': {
@@ -562,7 +579,7 @@ module.exports = {
     displayName: 'NPR.org'
   },
 
-  'occupy.com' : {
+  'occupy.com': {
     displayName: 'Occupy.com',
     feedUrl: 'http://www.occupy.com/rss'
   },
@@ -594,7 +611,7 @@ module.exports = {
     feedUrl: 'http://pasadenajournal.com/feed/'
   },
 
-  'pewresearch.org' : {
+  'pewresearch.org': {
     displayName: 'PewResearch.org',
     feedUrl: 'http://www.pewresearch.org/feed/'
   },
@@ -635,7 +652,7 @@ module.exports = {
     displayName: 'Reporters Without Borders'
   },
 
-  'rabble.ca' : {
+  'rabble.ca': {
     displayName: 'Rabble.ca',
     feedUrl: 'http://feeds.feedburner.com/rabble-news?format=xml'
   },
@@ -652,11 +669,12 @@ module.exports = {
 
   'realmedia.press': {
     displayName: 'RealMedia.press',
-    description: 'The News You Don\'t See',
+    description: 'The News You Don\'t See'
   },
 
-  'youtube.com/user/TheRealNews/videos' : {
-    displayName: 'TheRealNews@YouTube.com'
+  'youtube.com/user/TheRealNews/videos': {
+    displayName: 'TheRealNews@YouTube.com',
+    twitter: 'therealnews'
   },
 
   'youtube.com/user/redactedtonight/videos': {
@@ -689,10 +707,11 @@ module.exports = {
 
   'theroot.com': {
     displayName: 'TheRoot.com',
-    feedUrl: 'http://www.theroot.com/articles.teaser.all.25.rss'
+    feedUrl: 'http://www.theroot.com/articles.teaser.all.25.rss',
+    twitter: 'TheRoot'
   },
 
-  'salon.com' : {
+  'salon.com': {
     displayName: 'Salon.com',
     feedUrl: 'http://salon.com.feedsportal.com/c/35105/f/648624/index.rss'
   },
@@ -754,7 +773,7 @@ module.exports = {
     feedUrl: 'http://sfbay.ca/feed/'
   },
 
-  'sfist.com' : {
+  'sfist.com': {
     displayName: 'SFist.com',
     channels: ['#Local:SanFrancisco', '#Local:Oakland'],
     feedUrl: 'http://feeds.gothamistllc.com/SFist'
@@ -791,14 +810,14 @@ module.exports = {
   },
 
   'youtube.com/user/TEDtalksDirector/videos': {
-    displayName: 'TEDTalks@YouTube',
+    displayName: 'TEDTalks@YouTube'
   },
 
   'thebaybridged.com': {
     displayName: 'TheBayBridged.com'
   },
 
-  'thinkprogress.org' : {
+  'thinkprogress.org': {
     displayName: 'ThinkProgress.org',
     feedUrl: 'http://thinkprogress.org/feed/'
   },
@@ -869,10 +888,11 @@ module.exports = {
   },
 
   'youtube.com/user/TheYoungTurks/videos': {
-    displayName: 'TheYoungTurks@YouTube'
+    displayName: 'TheYoungTurks@YouTube',
+    twitter: 'TheYoungTurks'
   },
 
-  'zerohedge.com' : {
+  'zerohedge.com': {
     displayName: 'ZeroHedge.com',
     feedUrl: 'http://feeds.feedburner.com/zerohedge/feed?format=xml'
   }
