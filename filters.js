@@ -1,5 +1,5 @@
 const _ = require('underscore')
-const directory = require('./index')
+const directory = require('./data')
 
 module.exports = {
   keys,
