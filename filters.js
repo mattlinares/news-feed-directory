@@ -11,5 +11,7 @@ function keys () {
 }
 
 function extractEach (property) {
-  return _.pluck(directory, property)
+  return _.filter(_.pluck(directory, property), function (value) {
+    return value !== undefined
+  })
 }
