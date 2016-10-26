@@ -858,6 +858,11 @@ module.exports = {
     feedUrl: 'http://truthvoice.com/feed/'
   },
 
+  'youtube.com/channel/UCuMo0RRtnNDuMB8DV5stEag': {
+    displayName: 'TYTPolitics@YouTube',
+    feedUrl: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCuMo0RRtnNDuMB8DV5stEag'
+  },
+
   'usuncut.com': {
     displayName: 'USUncut.com',
     feedUrl: 'http://usuncut.com/feed/'
