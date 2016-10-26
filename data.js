@@ -873,6 +873,11 @@ module.exports = {
     feedUrl: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCuMo0RRtnNDuMB8DV5stEag'
   },
 
+  'unicornriot.ninja': {
+    displayName: 'UnicornRiot.ninja',
+    feedUrl: 'http://www.unicornriot.ninja/?feed=rss2'
+  },
+
   'usuncut.com': {
     displayName: 'USUncut.com',
     feedUrl: 'http://usuncut.com/feed/'
