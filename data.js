@@ -580,6 +580,11 @@ module.exports = {
     feedUrl: 'http://newsbud.com/feed'
   },
 
+  'thenextweb.com': {
+    displayName: 'TheNextWeb.com',
+    feedUrl: 'http://thenextweb.com/feed'
+  },
+
   'npr.org': {
     displayName: 'NPR.org'
   },
