@@ -575,6 +575,11 @@ module.exports = {
     feedUrl: 'http://thehill.com/rss/syndicator/19110'
   },
 
+  'newsbud.com': {
+    displayName: 'Newsbud.com',
+    feedUrl: 'http://newsbud.com/feed'
+  },
+
   'npr.org': {
     displayName: 'NPR.org'
   },
