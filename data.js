@@ -100,6 +100,11 @@ module.exports = {
     feedUrl: 'https://theawl.com/feed'
   },
 
+  'youtube.com/channel/UCMCioqY4zblWt7Uw0E0VTGA': {
+    displayName: 'The Benjamin Dixon Show @YouTube.com',
+    feedUrl: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCMCioqY4zblWt7Uw0E0VTGA'
+  },
+
   'billmoyers.com': {
     displayName: 'BillMoyers.com',
     feedUrl: 'http://billmoyers.com/feed/'
