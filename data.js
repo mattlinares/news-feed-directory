@@ -784,6 +784,12 @@ module.exports = {
     feedUrl: 'https://shadowproof.com/feed/'
   },
 
+  'sfbayview.com': {
+    displayName: 'SFBayView.com',
+    channels: ['#Local:Oakland', '#Local:SanFrancisco'],
+    feedUrl: 'http://sfbayview.com/feed/'
+  },
+
   'sfpublicpress.org': {
     displayName: 'SFPublicPress.org',
     channels: ['#Local:SanFrancisco'],
