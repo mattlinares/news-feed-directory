@@ -214,6 +214,11 @@ module.exports = {
     feedUrl: 'http://current.org/feed'
   },
 
+  'youtube.com/channel/UCvixJtaXuNdMPUGdOPcY8Ag': {
+    displayName: 'DavidPakmanShow@YouTube.com',
+    feedUrl: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCvixJtaXuNdMPUGdOPcY8Ag'
+  },
+
   'dailydot.com': {
     displayName: 'DailyDot.com',
     feedUrl: 'http://www.dailydot.com/feed/summary/latest/'
