@@ -771,6 +771,10 @@ module.exports = {
     feedUrl: 'http://sdnews.com/rss/home/SDNews+RSS?instance=SDNews+RSS&content_type=article&tags=&tag_inclusion=or&page_name=home'
   },
 
+  'youtube.com/user/SecularTalk': {
+    displayName: 'SecularTalk@YouTube.com'
+  },
+
   'securelist.com': {
     displayName: 'SecureList.com'
   },
