@@ -381,6 +381,10 @@ module.exports = {
     feedUrl: 'https://fsrn.org/feed/'
   },
 
+  'youtube.com/user/GlobalResearchTV': {
+    displayName: 'GlobalResearchTV@YouTube.com'
+  },
+
   'youtube.com/user/GlobalWitness/videos': {
     displayName: 'GlobalWitness@YouTube'
   },
