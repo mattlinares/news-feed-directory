@@ -418,6 +418,11 @@ module.exports = {
     twitter: 'hackread'
   },
 
+  'youtube.com/channel/UCDB5XReUyyqt-FTNdkzFN-A': {
+    displayName: 'H.A. Goodman @YouTube.com',
+    feedUrl: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCDB5XReUyyqt-FTNdkzFN-A'
+  },
+
   'hifructose.com': {
     displayName: 'HiFructose.com',
     feedUrl: 'http://hifructose.com/feed/'
