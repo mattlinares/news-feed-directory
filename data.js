@@ -399,7 +399,7 @@ module.exports = {
     twitter: 'grist'
   },
 
-  'theguardian.com/uk': {
+  'theguardian.com': {
     displayName: 'TheGuardian.com',
     feedUrl: 'http://www.theguardian.com/uk/rss'
   },
