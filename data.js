@@ -550,8 +550,9 @@ module.exports = {
     feedUrl: 'http://www.middleeasteye.net/rss'
   },
 
-  'mintpressnews.org': {
-    displayName: 'MintPressNews.org'
+  'mintpressnews.com': {
+    displayName: 'MintPressNews.com',
+    feedUrl: 'http://www.mintpressnews.com/feed/'
   },
 
   'youtube.com/user/MintPressNews/videos': {
