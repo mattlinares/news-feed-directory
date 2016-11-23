@@ -634,6 +634,12 @@ module.exports = {
     channels: ['#Local:NewYorkCity'],
     feedUrl: 'http://feeds.wnyc.org/onthemedia'
   },
+  
+  'opendemocracy.net': {
+    displayName: 'openDemocracy',
+    feedUrl: 'https://opendemocracy.net/xml/rss/home/index.xml',
+    twitter: 'opendemocracy'
+  },
 
   'pasadenajournal.com': {
     displayName: 'PasadenaJournal.com',
